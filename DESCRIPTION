@@ -1,5 +1,5 @@
 Package: praiseme
-Title: What the Package Does (One Line, Title Case)
+Title: Example package for lecture 7
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
