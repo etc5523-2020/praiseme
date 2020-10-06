@@ -10,13 +10,15 @@ praise(user_name)
 \item{user_name}{The name of a user as a character vector}
 }
 \value{
-The \code{user_name} with the words "Great job" prepended to it.
+The \code{user_name} with a  positive affirmation prepended to it.
 }
 \description{
 This function gives the user a positive affirmation, because
 they deserve it!
 }
 \examples{
+
+
 praise("Stuart")
 praise("Priya")
 
